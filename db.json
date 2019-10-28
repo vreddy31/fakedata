@@ -1,0 +1,64 @@
+{
+  "patients": [
+    {
+      "name": "1234",
+      "init": "AR",
+      "bp": "100/40",
+      "tl": "red"
+    },
+    {
+      "name": "3413",
+      "init": "BD",
+      "bp": "120/80",
+      "tl": "green"
+    },
+    {
+      "name": "213123",
+      "init": "GJ",
+      "bp": "115/86",
+      "tl": "yellow"
+    },
+    {
+      "name": "12312",
+      "init": "KL",
+      "bp": "104/75",
+      "tl": "yellow"
+    },
+    {
+      "name": "794657",
+      "init": "HG",
+      "bp": "100/80",
+      "tl": "red"
+    },
+    {
+      "name": "54762465",
+      "init": "YT",
+      "bp": "110/75",
+      "tl": "yellow"
+    },
+    {
+      "name": "24576",
+      "init": "UT",
+      "bp": "120/77",
+      "tl": "green"
+    },
+    {
+      "name": "265467",
+      "init": "IF",
+      "bp": "100/60",
+      "tl": "red"
+    },
+    {
+      "name": "25767",
+      "init": "OR",
+      "bp": "140/80",
+      "tl": "yellow"
+    },
+    {
+      "name": "34567",
+      "init": "WP",
+      "bp": "120/90",
+      "tl": "yellow"
+    }
+  ]
+}
